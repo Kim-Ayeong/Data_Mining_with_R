@@ -4,7 +4,7 @@
 - 교육 일시 : 2019/09/02 - 2019/12/21
 - 언어 및 프로그램 : R / R Studio
 - 주교재 : An Introduction to Statistical Learning with Applications in R
-  - ![An Introduction to Statistical Learning with Applications in R에 대한 이미지 검색결과](https://images.springer.com/sgw/books/medium/9781461471370.jpg)
+  - <img src="https://images.springer.com/sgw/books/medium/9781461471370.jpg" alt="An Introduction to Statistical Learning with Applications in R에 대한 이미지 검색결과" style="zoom:150%;" />
   - 1장 - 통계학습 개요(Introduction)
   - 2장 - 통계학습(Statistical Learning)
   - 3장 - 선형회귀(Linear Regression)
@@ -19,4 +19,4 @@
 
 
 - 부교재 : The Elements of Statistical Learning 
-  - ![The Elements of Statistical Learning에 대한 이미지 검색결과](https://images.springer.com/sgw/books/medium/9780387848570.jpg)
+  - <img src="https://images.springer.com/sgw/books/medium/9780387848570.jpg" alt="The Elements of Statistical Learning에 대한 이미지 검색결과" style="zoom:150%;" />
